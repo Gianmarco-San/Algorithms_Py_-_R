@@ -1,6 +1,8 @@
 ## Programming and Algorithm in Python & R
 
-Made some analysis without the use of any libraries and evalutated the computational complexity.
+### Python Project
+
+Guinea Baboons dataset analysis without using any library to help iterate. Program has been optimised to have the best big O notation algorithmic complexity, e.g. creating dictionaries, and still answer all the questions about the dataset, e.g. what primates couples has 28 interaction days.
 
 <br>Big O notation: in the context of algorithmic complexity analysis, the notation O(x) represents the worst-case
 time complexity of an algorithm, which is connected to efficiency and time, where x represents the size of the
