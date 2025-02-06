@@ -14,3 +14,7 @@ count of big-O, but they have very lower magnitude, so can be not considered, fo
 O(1).
 
 <br>Global time to run the whole Python script: 1.568643 seconds on a MacBook Pro Retina (13-inch, Mid 2014), 2.6GHz dual-core Intel Core i5 processor (Turbo Boost up to 3.1GHz) with 3MB shared L3 cache, 8GB of 1600MHz DDR3L onboard memory.
+
+### R Project
+
+Math marks EDA and visualisation on dataset composed by different schools types and divided by sex
